@@ -2,8 +2,7 @@
   "sites": [
     {
       "slug": "wide-ghost-limited",
-      "distDir": "build",
-      "storage": true
+      "distDir": "build"
     }
   ]
 }
