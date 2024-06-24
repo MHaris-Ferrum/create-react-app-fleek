@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React From Youtube
+          Learn React From AnyWhere
         </a>
       </header>
     </div>
