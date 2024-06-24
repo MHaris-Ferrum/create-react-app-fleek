@@ -15,6 +15,8 @@ jobs:
           node-version: 18
       - name: Install Fleek CLI
         run: npm i -g @fleek-platform/cli
+      - name: Installation dependencies
+        run: npm i
       - name: Build
         run: npm run build
       - name: Build & deploy sites
